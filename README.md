@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack
 
 **Languages:**
-`C`
+`C` 'Python'
 
 **Web Development:**
 `HTML` `CSS` `JavaScript`
