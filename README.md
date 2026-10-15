@@ -14,7 +14,8 @@
 `C` `Python` 
 
 **Web Development:**
-`HTML` `CSS` `JavaScript`
+Front-end 
+Back-end
 
 **Tools:**
 `Git` `GitHub` `VS Code`
